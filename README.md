@@ -4,7 +4,7 @@ This is a file made to demonstrate a visual bug with how GitHub shows removed wh
 
 ## The bug
 
-This line has a lot                                                        of extra whitespace.
+This line doesn't have a lot of extra whitespace.
 
 ## Platforms with the bug
 
